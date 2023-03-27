@@ -10,3 +10,4 @@ addons:
     packages:
       - cmake
       - cmake-data
+EOF
